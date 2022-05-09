@@ -1,0 +1,40 @@
+@startmindmap
+'https://plantuml.com/mindmap-diagram
+
+* ZeGailleMe project
+** Plan
+*** Architecture principles
+** Android game
+*** 3D engine
+**** Graph scene
+**** Particle effects
+**** Animations
+*** Sound manager
+** DesktopTools
+** Common modules
+*** <i>"Low"</i> level
+**** Thread management
+**** Collections
+**** Stream manipulation
+*** Scene description
+** Scenario
+** Resources
+*** Images
+*** Sounds
+*** 3D objects
+** Website
+** Tutorial
+*** Documentation
+*** <i>Writing articles ?</i>
+**** <i>Medium ?</i>
+*** <i>Video ?</i>
+**** <i>Youtube ?</i>
+**** <i>Twitch ?</i>
+** <i>Social media ?</i>
+*** <i>LinkedIn ?</i>
+*** <i>Facebook ?</i>
+*** <i>Twitter ?</i>
+
+' <&check>
+
+@endmindmap
